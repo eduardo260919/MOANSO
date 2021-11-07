@@ -1,0 +1,26 @@
+!SESSION 2021-08-25 15:52:29.985 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8.1 amd64-64 Compressed References 20141216_227497 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141216_0955_B227497
+JIT  - r11.b07_20141003_74578.05
+GC   - R26_Java726_SR8_20141216_0955_B227497_CMPRSS
+J9CL - 20141216_227497
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v91.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.ibm.rational.rsa.product.v91.ide
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2021-08-25 15:53:32.628
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+!SESSION 2021-08-25 15:58:36.331 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8.1 amd64-64 Compressed References 20141216_227497 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141216_0955_B227497
+JIT  - r11.b07_20141003_74578.05
+GC   - R26_Java726_SR8_20141216_0955_B227497_CMPRSS
+J9CL - 20141216_227497
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v91.ide
+Command-line arguments:  -data D:\Universidad\8vo Ciclo\Moanso\Semana 2\WS_molde\Proyecto_01 -os win32 -ws win32 -arch x86_64 -product com.ibm.rational.rsa.product.v91.ide
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2021-08-25 15:58:48.587
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
